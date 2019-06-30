@@ -2,3 +2,6 @@
 
 # Bibbys
 Bibbys is a product landing page for all your Bibby needs. Made with html/css.
+
+# Sample on CodePen
+https://codepen.io/dandkim97/full/ydvqBx
